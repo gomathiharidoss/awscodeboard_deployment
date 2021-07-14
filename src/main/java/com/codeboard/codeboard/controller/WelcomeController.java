@@ -9,7 +9,7 @@ public class WelcomeController {
 	@RequestMapping("/getname")
 	public String getName()
 	{
-		return "Welcome ..";
+		return "Welcome d..";
 	}
 
 }
